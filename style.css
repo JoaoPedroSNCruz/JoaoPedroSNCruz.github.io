@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #743B9B;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #4D4352;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -32,74 +32,79 @@
 }
 
 .profile {
-    width: 100%;
-    border-bottom: 2px solid #eeeeee;
+    width: 90%;
+    border-bottom: 2px solid #000000;
 }
 
 .profile .profile-image {
     width: 100%;
-    border-radius: 100%;
+    border-radius: 90%;
 }
 
 .name {
-    color: #D6DBDF;
-    font-size: 30px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    color: #B2A7B8;
+    font-size: 40px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    text-align: center;
 }
 
 .profession {
-    color: #eeeeee;
-    font-size: 20px;
+    color: #B2A7B8;
+    font-size: 25px;
     text-transform: uppercase;
     text-align: center;
 }
 
-/* .contact-info { border-bottom: 2px solid #1B2631; } */
+.contact-info { border-bottom: 2px solid #000000; }
+
+
 .left-title {
-    color: #eeeeee;
-    font-size: 20px;
+    color: #B2A7B8;
+    font-size: 30px;
 }
 
 .contact-info ul {
-    padding-top: 1.5rem;
+    padding-top: 0.5rem;
 }
 
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #B2A7B8;
 }
 
 .contact-info ul li i,
 .references ul li i {
-    padding-right: 1rem;
-    font-size: 18px;
-    color: #eeeeee;
+    padding-right: 0.4rem;
+    font-size: 20px;
+    color: #B2A7B8;
 }
 
 .skills ul {
-    padding-top: 1.5rem;
+    padding-top: 0.4rem;
 }
 .skills ul li p {
-    padding: .4rem 0;
-    color: #eeeeee;
+    padding: 0.1rem;
+    color: #B2A7B8;
 }
 
 .right-section-contents {
-    padding: 2rem 2rem;
+    padding: 5rem 3rem;
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #B2A7B8;
+    font-size: 40px;
+    font-weight: 900;
 }
 
 .gap {
-    padding-bottom: 2rem;
+    padding-bottom: 3rem;
 }
 .about-me-contents {
-    font-size: 18px;
-    color: #eeeeee;
+    font-size: 16px;
+    color: #B2A7B8;
 }
 
 .experience-contents,
@@ -108,31 +113,31 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
-    color: #F1F8FD;
+    color: #B2A7B8;
 }
 
 .exp-company-name,
 .education-school-name,
 .awards-company-name {
-    font-size: 25px;
-    font-weight: bold;
+    font-size: 30px;
+    font-weight: 400;
 }
 
 .exp-time-period,
 .educationp-time-period,
 .awards-time-period {
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .exp-desc,
 .education-desc,
 .awards-desc {
-    font-size: 16px;
-    padding-left: 5px;
+    font-size: 20px;
+    padding-left: 10px;
 }
