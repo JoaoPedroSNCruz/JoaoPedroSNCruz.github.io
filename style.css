@@ -81,6 +81,13 @@
     color: #B2A7B8;
 }
 
+.contact-info ul li div,
+.references ul li div {
+    padding-right: 0.4rem;
+    font-size: 20px;
+    color: #B2A7B8;
+}
+
 .skills ul {
     padding-top: 0.4rem;
 }
