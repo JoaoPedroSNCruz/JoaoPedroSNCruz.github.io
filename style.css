@@ -50,7 +50,7 @@
 }
 
 .profession {
-    color: #B2A7B8;
+    color: #121014;
     font-size: 25px;
     text-transform: uppercase;
     text-align: center;
@@ -58,6 +58,9 @@
 
 .contact-info { border-bottom: 2px solid #000000; }
 
+.contact-info a {
+    color: #cabcd1;
+}
 
 .left-title {
     color: #B2A7B8;
@@ -65,26 +68,9 @@
 }
 
 .contact-info ul {
+    font-size: 20px;
     padding-top: 0.5rem;
-}
-
-.contact-info ul li,
-.references ul li {
-    padding: .4rem 0;
-    color: #B2A7B8;
-}
-
-.contact-info ul li i,
-.references ul li i {
-    padding-right: 0.4rem;
-    font-size: 20px;
-    color: #B2A7B8;
-}
-
-.contact-info ul li div,
-.references ul li div {
-    padding-right: 0.4rem;
-    font-size: 20px;
+    padding: .4rem;
     color: #B2A7B8;
 }
 
@@ -146,6 +132,6 @@
 .exp-desc,
 .education-desc,
 .awards-desc {
-    font-size: 20px;
-    padding-left: 10px;
+    font-size: 15px;
+    padding-left: 0px;
 }
