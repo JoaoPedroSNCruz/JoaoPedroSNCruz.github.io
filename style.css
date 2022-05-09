@@ -70,7 +70,7 @@
 .contact-info ul {
     font-size: 20px;
     padding-top: 0.5rem;
-    padding: .4rem;
+    padding: .4rem 1.5rem;
     color: #cec1d5;
 }
 
@@ -78,8 +78,14 @@
     padding-top: 0.4rem;
 }
 .skills ul li p {
-    padding: 0.1rem;
+    padding: 0.1rem 1.5rem;
     color: #cec1d5;
+}
+
+.skills ul li p b{
+    font-size: 22px;
+    color: #cec1d5;
+    font-weight: 900;
 }
 
 .right-section-contents {
@@ -96,6 +102,7 @@
 .about-me-contents {
     font-size: 17px;
     color: #cec1d5;
+    padding-bottom: 3rem;
 }
 
 .experience-contents,
@@ -110,7 +117,7 @@
 .exp-company-name,
 .education-school-name,
 .awards-company-name {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 400;
 }
 
@@ -123,7 +130,7 @@
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .exp-desc,
