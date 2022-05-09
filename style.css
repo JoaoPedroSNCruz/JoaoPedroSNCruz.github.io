@@ -41,12 +41,6 @@
     border-radius: 90%;
 }
 
-.awards-image{
-    width: 60%;
-}
-
-
-
 .name {
     color: #B2A7B8;
     font-size: 40px;
@@ -99,11 +93,8 @@
     border-bottom: 2px solid #000000;
 }
 
-.gap {
-    padding-bottom: 3rem;
-}
 .about-me-contents {
-    font-size: 16px;
+    font-size: 17px;
     color: #B2A7B8;
 }
 
