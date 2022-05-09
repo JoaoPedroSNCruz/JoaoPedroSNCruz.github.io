@@ -41,6 +41,12 @@
     border-radius: 90%;
 }
 
+.awards-image{
+    width: 60%;
+}
+
+
+
 .name {
     color: #B2A7B8;
     font-size: 40px;
