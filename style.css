@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #743B9B;
+    background-color: #334e99;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #4D4352;
+    background-color: #4e4b4f;
     border-radius: 0px 60px 60px 0px;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .name {
-    color: #B2A7B8;
+    color: #cec1d5;
     font-size: 40px;
     letter-spacing: 1px;
     text-transform: capitalize;
@@ -59,11 +59,11 @@
 .contact-info { border-bottom: 2px solid #000000; }
 
 .contact-info a {
-    color: #cabcd1;
+    color: #cec1d5;
 }
 
 .left-title {
-    color: #B2A7B8;
+    color: #cec1d5;
     font-size: 30px;
 }
 
@@ -71,7 +71,7 @@
     font-size: 20px;
     padding-top: 0.5rem;
     padding: .4rem;
-    color: #B2A7B8;
+    color: #cec1d5;
 }
 
 .skills ul {
@@ -79,7 +79,7 @@
 }
 .skills ul li p {
     padding: 0.1rem;
-    color: #B2A7B8;
+    color: #cec1d5;
 }
 
 .right-section-contents {
@@ -87,7 +87,7 @@
 }
 
 .right-title {
-    color: #B2A7B8;
+    color: #cec1d5;
     font-size: 40px;
     font-weight: 900;
     border-bottom: 2px solid #000000;
@@ -95,7 +95,7 @@
 
 .about-me-contents {
     font-size: 17px;
-    color: #B2A7B8;
+    color: #cec1d5;
 }
 
 .experience-contents,
@@ -104,7 +104,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
-    color: #B2A7B8;
+    color: #cec1d5;
 }
 
 .exp-company-name,
